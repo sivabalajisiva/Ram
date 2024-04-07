@@ -1,0 +1,55 @@
+.imgg{
+    margin-top: 80px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+.imggg{
+    margin-left: 20px;
+}
+.imgg11{
+    width: 300px;
+    height: 240px;
+}
+.imgg12{
+    width: 300px;
+}
+.imgg13{
+    width: 300px;
+    height: 240px;
+}
+.imgg14{
+    width: 300px;
+    height: 240px;
+}
+.imgg15{
+    width: 300px;
+    height: 240px;
+}
+.imgg16{
+    width: 300px;
+}
+.but{
+    padding: 24px 44px;
+    border: 3px solid black ;
+    border-radius: 19px;
+    margin-top: 60px;
+   
+    background-color: black;
+    color: white;
+}
+.but:hover{
+    background-color: white;
+    color: black;
+}
+.client h2{ 
+   
+   margin-top: 40px;
+   font-size: 60px;
+}
+.client P{
+    margin-top: 20PX;
+    font-size: 20px;
+}
+.logos{
+   margin-left: 92px;
+}
